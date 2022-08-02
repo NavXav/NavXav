@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavXav
+- 👋 Hi, I’m @NavXav, PhD student.
 - 👀 I’m interested in neuroscience, genetics and statistics.
 - 🌱 I’m currently learning R.
 
